@@ -561,3 +561,15 @@ def play_game():
 
 
 get_avg(500, 'heuristic')
+
+#------------------------------------[ 1C Code Review ]-----------------------------------------#
+# Code commentaar: Goed
+# Variabele namen: Goed
+# Functie namen: Goed
+# Opbouw/structuur: Eventueel de algoritmes in een apart bestand zetten en importeren, zodat er een iets duidelijkere verdeling is van de verschillende onderdelen van het programma. Verder niks aan veranderen.
+# Algoritme beschrijvingen: Goed
+# Werking programma: Goed
+
+# Iets wat in de opdracht staat, maar verder niet lijkt te worden gecontroleerd in de beoordelingscriteria wat je nog evt. zou kunnen toepassen:
+# “Jij moet dus een code kunnen raden terwijl de computer feedback geeft, maar de computer moet ook een code kunnen raden terwijl jij feedback geeft.,,
+
